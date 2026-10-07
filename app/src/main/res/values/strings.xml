@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Civora Student Widget</string>
+    <string name="next_class_widget_name">Next Class</string>
+    <string name="next_class_widget_desc">Live timetable progress and next class countdown</string>
+    <string name="task_widget_name">Upcoming Tasks</string>
+    <string name="task_widget_desc">Live upcoming academic assignments and urgency tracker</string>
+</resources>

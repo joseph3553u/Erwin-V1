@@ -1,0 +1,6 @@
+{
+  "name": "Civora Student Widget",
+  "description": "Smart timetable and task deadline home-screen widgets with automated PDF extraction and live progress.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
